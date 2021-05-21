@@ -4,4 +4,4 @@ This repository contains an R script used to perform analyses and generate figur
 
 Tsuchida et al., (2021) "The MRi-Share database: brain imaging in a cross-sectional cohort of 1,870 university students".
 
-The associated dataset containing brain global image-derived phenotypes (IDPs) for 1,831 subjects from the MRiShare database is available on Dryad (https://doi.org/10.5061/dryad.q573n5tj2).
+The associated dataset containing brain global image-derived phenotypes (IDPs) for 1,831 subjects from the MRiShare database is available on Dryad (https://doi.org/10.5061/dryad.q573n5tj2). This script is identical to the script associated with the Dryad dataset and hosted on Zenodo (https://doi.org/10.5281/zenodo.4776037).
